@@ -196,7 +196,7 @@ footer {
 .move-ball-img {
     position: absolute;
     margin: 8px 0 0 427px;
-    animation: move-ball 3s ease-in-out infinite alternate-reverse;
+    animation: move-ball 3s ease infinite alternate-reverse;
 }
 
 @keyframes move-ball {
@@ -208,7 +208,7 @@ footer {
 .animation-img {
     position: absolute;
     margin: 8px 0 0 433px;
-    animation: animation 3s ease-in-out infinite alternate-reverse;
+    animation: animation 3s ease infinite alternate-reverse;
 }   
 
 @keyframes animation {
