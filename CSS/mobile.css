@@ -10,7 +10,7 @@
         padding: 0 15px;
     }
     .background-1 {
-        background-position: center;
+        background-image: url(../assets/mobile-background1.png);
     }
 
     .app-header__nav-menu-button-icon {
@@ -91,6 +91,16 @@
         display: flex;
         align-items: center;
         padding-top: 20px;
+   }
+
+   .move-ball-img {
+        margin: 7px 0 0 -35px;
+        position: absolute;
+    }
+
+   .animation-img {
+        margin-left: -32px;
+        position: absolute;
    }
 
 }
